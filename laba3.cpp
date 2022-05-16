@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int second ()
 {
     int c;
@@ -7,4 +8,10 @@ int second ()
     return c;
 }
 
+
+int third(){
+    int b;
+    cin>>b;
+    return b;
+}
 
